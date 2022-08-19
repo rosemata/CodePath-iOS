@@ -2,11 +2,11 @@
 
 # Pre-work - *Name of App Here*
 
-**Name of your app** is a tip calculator application for iOS.
+Tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: Roselle Mata
 
-Time spent: **X** hours spent in total
+Time spent: 1 hour spent in total
 
 ## User Stories
 
@@ -38,9 +38,13 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+[ ] Downloading XCode environment 
+[ ] Struggled with dragging labels/textfield because control button not working
+[ ] Familiarizing with Swift Environment
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2022 Roselle Mata
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
