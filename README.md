@@ -1,7 +1,5 @@
 # CodePath-iOS
 
-# Pre-work - *Name of App Here*
-
 Tip calculator application for iOS.
 
 Submitted by: Roselle Mata
