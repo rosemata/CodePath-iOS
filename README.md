@@ -35,7 +35,7 @@ Here's a walkthrough of implemented user stories:
 
 
 
-<img src='https://im.ezgif.com/tmp/ezgif-1-ffb6509e34.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgflip.com/gif/6vc0da' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
